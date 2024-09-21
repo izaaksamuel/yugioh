@@ -1,0 +1,13 @@
+{
+    "name": "yugioh",
+    "start_url": "/yugioh",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/logo.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
