@@ -1,1 +1,1 @@
-# yugioh!
+# yugioh
